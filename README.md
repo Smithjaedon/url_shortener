@@ -68,3 +68,6 @@ This keeps the database lean without any manual intervention, and demonstrates p
 - **Scheduled background jobs** for automated data lifecycle management
 - **Stateless redirect logic** via slug-based database lookups
 - **Containerisation** with Docker for running the Redis instance
+
+## Project Demo
+https://youtu.be/OOrBvUCa1zI
