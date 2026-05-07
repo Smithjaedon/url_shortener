@@ -4,6 +4,12 @@ A full-stack URL shortening service inspired by Bitly. Users paste a long URL, r
 
 ---
 
+## 🎥 Demo
+
+> _[[Url Shortener Demo](https://www.youtube.com/watch?v=OOrBvUCa1zI)]_
+
+---
+
 ## Tech Stack
 
 ### Backend *(primary focus)*
@@ -69,5 +75,3 @@ This keeps the database lean without any manual intervention, and demonstrates p
 - **Stateless redirect logic** via slug-based database lookups
 - **Containerisation** with Docker for running the Redis instance
 
-## Project Demo
-https://youtu.be/OOrBvUCa1zI
